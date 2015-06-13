@@ -1,0 +1,19 @@
+{
+  "name": "myAppModels",
+  "version": "0.0.0",
+  "description": "a simple db models module",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "krishna chavali",
+  "license": "ISC",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {
+    "config": "1.14.0",
+    "sequelize": "3.2.0",
+    "sqlite3": "^3.0.8"
+  }
+}

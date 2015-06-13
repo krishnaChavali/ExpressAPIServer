@@ -1,0 +1,24 @@
+{
+  "name": "simpleExpressRestAPI",
+  "version": "0.0.0",
+  "description": "a simple express skeleton app for REST API server",
+  "main": "app.js",
+  "keywords": [
+    "express",
+    "REST"
+  ],
+  "author": "krishna chavali",
+  "license": "ISC",
+  "engines"     : {
+    "node": ">=0.10.0"
+  },  
+  "dependencies": {
+    "express" : "4.x",
+    "body-parser" : "~1.12.4 ",
+    "morgan": "~1.5.3"
+  },  
+  "scripts": {
+    "test": "test",
+    "start": "node app.js"
+  }
+}

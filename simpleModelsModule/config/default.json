@@ -1,0 +1,8 @@
+{
+    "sqldb" : {         
+      "options" : {
+        "dialect": "sqlite",
+        "storage": "./db.development.sqlite"
+      }
+    }
+}

@@ -1,0 +1,15 @@
+//for production config
+//look at http://docs.sequelizejs.com/en/latest/docs/getting-started/
+
+{
+    "sqldb" : {
+      "database" : "",
+      "username" : "",
+      "password" : "",               
+      "options" : {
+        "host" : "",
+        "dialect": "sqlite",
+        "storage": "./db.development.sqlite"
+      }
+    }
+}
